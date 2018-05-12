@@ -1,0 +1,27 @@
+_repo: Souvenir-of-the-George-Borrow-CelebrationNorwich-July-5th-1913_21538
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21538-h/images/coverb.jpg
+creator:
+  author:
+    agent_name: Hooper, James
+    gutenberg_agent_id: '24771'
+    url: http://www.gutenberg.org/2009/agents/24771
+description: ''
+gutenberg_issued: '2007-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Borrow, George, 1803-1881'
+- !lcc 'PR'
+title: 'Souvenir of the George Borrow Celebration
+
+  Norwich, July 5th, 1913'
+url: http://www.gutenberg.org/ebooks/21538
